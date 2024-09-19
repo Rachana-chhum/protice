@@ -138,7 +138,8 @@ button {
     }
     button{
         
-        width: 99px;
+        width: 99%;
+        margin-right: 0px;
        
     }
     .form-group {
